@@ -2,9 +2,10 @@ streamlit
 markitdown
 easyocr
 faster-whisper
-moviepy
-tiktoken
+yt-dlp
 Pillow
 mutagen
 pymediainfo
-ffmpeg
+tiktoken
+pandas
+moviepy
