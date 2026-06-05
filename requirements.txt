@@ -1,0 +1,10 @@
+streamlit
+markitdown
+easyocr
+faster-whisper
+moviepy
+tiktoken
+Pillow
+mutagen
+pymediainfo
+ffmpeg
